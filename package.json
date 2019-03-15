@@ -1,0 +1,23 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahsga/travis-ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahsga/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/sarahsga/travis-ci-test#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1",
+    "mocha": "^5.2.0"
+  }
+}
